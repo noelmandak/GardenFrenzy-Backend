@@ -1,0 +1,6 @@
+/venv
+/temp
+SER/Dataset
+__pycache__/
+run ngrok.txt
+.env
